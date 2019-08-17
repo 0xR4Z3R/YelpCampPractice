@@ -1,0 +1,35 @@
+.thumbnail img {
+    width: 100%;
+   /* height: 200px;*/
+}
+
+#smallimage img{
+    height: 200px;
+}
+
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
+
+#delete-form{
+    display: inline;
+}
+
+
+body{
+    background: grey;
+    color:black;
+}
+.navbar{
+    
+    background: white;
+}
+
+.container{
+  color:black;  
+}
